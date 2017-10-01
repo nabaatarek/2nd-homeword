@@ -1,0 +1,4 @@
+Database:hw
+Table name:login
+id + username + +password
+1+nabaatarekk+12345678
